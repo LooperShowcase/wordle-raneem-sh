@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(252, 252, 252);
+}
+
+.game {
+  width: 100%;
+}
+.word {
+  display: flex;
+  justify-content: center;
+}
+.char {
+  height: 85px;
+  width: 85px;
+  border: 5px rgb(42, 151, 35) solid;
+  font-size: 80;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3px;
+}
